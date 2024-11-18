@@ -68,6 +68,6 @@
         <li>Create wireframes and iterate until the design aligns with the brand’s vision.</li>
         <li>Polish the design in Photoshop or similar tools and export it for deployment.</li>
     </ol>
-
+<h2> Developed by: Yash Anand </h2>
 </body>
 </html>
